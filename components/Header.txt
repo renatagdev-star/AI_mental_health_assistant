@@ -1,0 +1,14 @@
+# Header – Private Section
+
+The original Header component is not included in this public repository.
+
+In the full application, the header manages:
+- Authentication state (signed in / signed out)
+- User account menu
+- Protected navigation links
+- Integration with Clerk authentication
+
+Because it contains authentication logic and internal application structure,
+the component has been replaced with this placeholder in the portfolio version.
+
+Only non-sensitive UI components are included publicly.
